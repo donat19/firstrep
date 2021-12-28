@@ -1,0 +1,8 @@
+git config --global user.name "donat19"^C
+git config --global user.email "izimalyov@gmail.com"
+git clone http......
+git status
+git add .
+git commit -m "........"
+git push
+
